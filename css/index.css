@@ -1,7 +1,11 @@
-.img-responsive:hover {
+.img-responsive {
     padding-bottom: 20px;
     padding-top: 20px;
-    border: 2px solid red;
+}
+
+
+img-responsive:hover {
+    border: 2px solid black;
 }
 
 
